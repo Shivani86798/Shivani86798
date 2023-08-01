@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shivani86798
+- 👋 Hi, I’m Shivani
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently looking for the job opportunies in Data analytics
 - 💞️ I’m looking to collaborate on Data Science Projects
